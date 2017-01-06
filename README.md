@@ -1,2 +1,2 @@
-# SProj
-The project contains some static files 
+# MedSysWeApp
+The Wechat App for MedSys application
